@@ -1,6 +1,7 @@
 * {
   margin: 0px;
   padding: 0px;
+  font-family: "Nunito", sans-serif;
 }
 
 .header-logo {
@@ -26,7 +27,6 @@
 .header-links ul li {
   display: inline;
   margin-right: 50px;
-  font-family: Poppins;
 }
 
 .header-links {
