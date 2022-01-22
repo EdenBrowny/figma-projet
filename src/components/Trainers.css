@@ -1,0 +1,47 @@
+.trainers h3 {
+  margin: auto;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 900;
+  color: rgba(8, 122, 52, 0.993);
+  margin: 50px auto;
+}
+
+.trainers .content {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  justify-content: center;
+}
+
+.trainers .main-content {
+  position: relative;
+}
+
+.main-content .abs-content {
+  position: absolute;
+  bottom: 6px;
+  color: #fff;
+  background-color: rgba(65, 64, 64, 0.993);
+  width: 85%;
+  margin: auto;
+  padding-left: 10px;
+}
+
+.main-content .abs-content h2 {
+  color: #85b36b;
+}
+
+.main-content .abs-content h4 {
+  font-weight: 900;
+  display: inline;
+}
+
+.main-content .abs-content p {
+  display: inline;
+}
+
+.handle {
+  text-align: right;
+  margin-top: 20px;
+}

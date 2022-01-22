@@ -1,0 +1,59 @@
+.Ticket h3 {
+  margin: auto;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  color: rgba(8, 122, 52, 0.993);
+  margin: 50px auto;
+}
+
+.Ticket h5 {
+  text-align: center;
+  margin: auto;
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.Ticket p {
+  text-align: center;
+  margin: auto;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 15px auto;
+}
+
+.event-ticket {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.event-ticket div {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  box-shadow: 1px 4px 10px 4px rgb(248, 245, 245);
+}
+
+label {
+  margin: 5px;
+  padding: 4px;
+}
+
+input {
+  padding: 15px;
+  border-style: solid;
+  border-color: rgb(22, 88, 114);
+  border-radius: 8px;
+}
+
+.event-reg {
+  text-align: center;
+  color: white;
+  margin: 50px auto;
+  background-color: rgb(22, 88, 114);
+  padding: 10px 40px 10px 40px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}

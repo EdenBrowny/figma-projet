@@ -1,0 +1,50 @@
+.finals-logo {
+  margin-top: 20px;
+}
+
+.final-header {
+  background: linear-gradient(
+      270deg,
+      rgba(11, 11, 95, 0.925) 0%,
+      rgba(13, 13, 99, 0.925) 100%
+    ),
+    url(../assets/images/section-13.png);
+  height: 100vh;
+  background-repeat: no-repeat;
+  width: 100%;
+  margin-top: 100px;
+}
+
+.finals-body {
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  /* width: 70%; */
+  /* margin: 50px 0px 0px 80px; */
+}
+
+.finals-left,
+.finals-inst {
+  width: 50%;
+}
+
+.header-body .left p {
+  font-size: 20px;
+  line-height: 25px;
+  color: rgb(207, 205, 205);
+  width: 90%;
+}
+
+/* .finals-inst {
+  display: flex;
+  background: green;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.finals-box {
+  background: #fff;
+  width: 20%;
+  margin: 10px;
+  height: 20vh;
+} */

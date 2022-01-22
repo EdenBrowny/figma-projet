@@ -1,0 +1,95 @@
+.growth-plan .heading {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  font-size: 25px;
+  color: rgba(8, 122, 52, 0.993);
+}
+
+.virtual {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  justify-content: space-between;
+}
+
+.virtual .content {
+  color: white;
+  background-color: rgb(22, 88, 114);
+  padding: 40px;
+  width: 70%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.virtual .left .sections,
+.virtual .right .sections {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.virtual .left .sections .first,
+.virtual .left .sections .second,
+.virtual .right .sections .first,
+.virtual .right .sections .second {
+  box-shadow: 1px 2px 2px 5px rgba(230, 227, 227, 0.685);
+  padding: 1rem;
+  width: 40%;
+  margin: auto;
+  box-shadow: 50px;
+  border-radius: 30px blue;
+  /* border: 1px solid #aa9f9f; */
+}
+
+.virtual .left .sections .first p,
+.virtual .left .sections .second p,
+.virtual .right .sections .first p,
+.virtual .right .sections .second p {
+  text-align: center;
+}
+
+.virtual .left .sections .first h2,
+.virtual .left .sections .second h2,
+.virtual .right .sections .first h2,
+.virtual .right .sections .second h2 {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+#money,
+#money,
+#money,
+#money {
+  color: rgb(22, 88, 114);
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.monthly {
+  color: rgb(22, 88, 114);
+  font-size: 16px;
+  font-weight: 900;
+}
+
+.brochure {
+  text-align: center;
+  /* margin: 45px; */
+}
+
+.bro-package {
+  color: rgba(8, 122, 52, 0.993);
+  margin: 45px;
+  word-spacing: 4px;
+}
+
+.bro-box {
+  width: 18%;
+  color: white;
+  margin: 30px auto;
+  background-color: rgb(22, 88, 114);
+  padding: 10px 40px 10px 40px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}

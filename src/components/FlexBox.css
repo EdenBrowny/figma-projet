@@ -21,13 +21,49 @@
   margin: 20px;
   padding: 35px 0px;
   text-align: center;
-
+  min-height: 50px;
+  max-height: 50px;
   background: #ffffff;
-  box-shadow: 0px 4px 4px 2px rgba(18, 76, 101, 0.05);
+  box-shadow: 0px 4px 4px 2px #0630460d;
+  border: outset white;
   border-radius: 20px;
 }
 
 .flex-box .category .cat p {
-  width: 85%;
+  width: 70%;
   margin: auto;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+#dark-blue {
+  border-color: white rgb(132, 132, 192) rgb(190, 190, 246) white;
+}
+
+#red {
+  border-color: white rgb(243, 178, 178) rgb(243, 178, 178) white;
+}
+
+#purple {
+  border-color: white rgb(241, 178, 243) rgb(241, 178, 243) white;
+}
+
+#blue {
+  border-color: white rgb(178, 217, 243) rgb(178, 217, 243) white;
+}
+
+#green {
+  border-color: white rgb(124, 246, 189) rgb(156, 250, 211) white;
+}
+
+#yellow {
+  border-color: white rgba(243, 189, 42, 0.781) rgba(243, 189, 42, 0.781) white;
+}
+
+#black {
+  border-color: white rgba(22, 22, 21, 0.65) rgba(22, 22, 22, 0.65) white;
+}
+
+#orange {
+  border-color: white rgba(214, 120, 32, 0.603) rgba(214, 120, 32, 0.603) white;
 }

@@ -1,0 +1,13 @@
+.event-schedule .heading h3 {
+  margin: auto;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  color: rgba(8, 122, 52, 0.993);
+  margin: 50px auto;
+}
+
+/* .event-schedule .content {
+  display: flex;
+  margin: 50px 20px;
+} */
